@@ -1,0 +1,6 @@
+let state={
+  userInfo:{
+    id:'',
+  }
+}
+
